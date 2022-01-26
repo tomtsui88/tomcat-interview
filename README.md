@@ -13,7 +13,7 @@ Complete the Dockerfile that does the following:
    2.  Expose the default Apache Tomcat server 8080 port
    3.  Launch the Tomcat server by executing catalina.sh
   
-Buld the Tomcat Docker image using the Dockerfile.
+Buld the Tomcat Docker image using the Dockerfile (with tag set to 'mywebapp').
 Run the container using the Docker image
 Mapping ports from container on to the host machine
 Get Tomcat server running on a container
