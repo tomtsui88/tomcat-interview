@@ -10,10 +10,10 @@ You will need to complete the following steps:
 
 Complete the Dockerfile that does the following:
    1.  Move the sample.war to the default CATALINA_BASE/webapps directory
-   2.  Expose the default 8080 port
+   2.  Expose the default Apache Tomcat server 8080 port
    3.  Launch the Tomcat server by executing catalina.sh
   
-Use Docker command(s) to buld the Tomcat Docker image using the Dockerfile.
+Buld the Tomcat Docker image using the Dockerfile.
 Run the container using the Docker image
 Mapping ports from container on to the host machine
 Get Tomcat server running on a container
