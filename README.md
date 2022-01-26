@@ -8,17 +8,17 @@ The sample TomCat application (sample.war) will be using for this exercise is in
 Objective
 You will need to complete the following steps:
 
-Complete the Dockerfile that does the following:
+a.  Complete the Dockerfile that does the following:
    1.  Move the sample.war to the default CATALINA_BASE/webapps directory
    2.  Expose the default Apache Tomcat server 8080 port
    3.  Launch the Tomcat server by executing catalina.sh
   
-Buld the Tomcat Docker image using the Dockerfile (with tag set to 'mywebapp').
+b.  Buld the Tomcat Docker image using the Dockerfile (with tag set to 'mywebapp').
 
-Run the container using the Docker image.
+c.  Run the container using the Docker image.
 
-Mapping ports from container on to the host machine.
+d.  Mapping ports from container on to the host machine.
 
-Get Tomcat server running on a container.
+e.  Get Tomcat server running on a container.
 
-Verify the Tomcat server is running and show us the default webpage of the webapp.
+f.  Verify the Tomcat server is running and show us the default webpage of the webapp.
