@@ -14,7 +14,11 @@ Complete the Dockerfile that does the following:
    3.  Launch the Tomcat server by executing catalina.sh
   
 Buld the Tomcat Docker image using the Dockerfile (with tag set to 'mywebapp').
-Run the container using the Docker image
-Mapping ports from container on to the host machine
-Get Tomcat server running on a container
-Verify the Tomcat server is running and show us the default webpage of the webapp
+
+Run the container using the Docker image.
+
+Mapping ports from container on to the host machine.
+
+Get Tomcat server running on a container.
+
+Verify the Tomcat server is running and show us the default webpage of the webapp.
