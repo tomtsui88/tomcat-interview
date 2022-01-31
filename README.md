@@ -9,7 +9,7 @@ Objective
 You will need to complete the following steps:
 
 a.  Complete the Dockerfile that does the following:
-   1.  Move the sample.war to the default CATALINA_BASE/webapps directory
+   1.  Move the sample.war to the default deployment (i.e./usr/local/tomcat/webapps) directory
    2.  Expose the default Apache Tomcat server 8080 port
    3.  Launch the Tomcat server by executing catalina.sh
   
